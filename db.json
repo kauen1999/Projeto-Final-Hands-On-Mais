@@ -1,0 +1,42 @@
+{
+  "alunos": [
+    {
+      "nome": "Patrícia Marcela Sara Novaesas",
+      "matricula": "003",
+      "curso": "Sistemas para internet",
+      "id": 3
+    },
+    {
+      "nome": "Introdução a progração com scripts",
+      "matricula": "36h",
+      "curso": "",
+      "id": 4
+    }
+  ],
+  "disciplinas": [
+    {
+      "nome": "987654321",
+      "cargaHoraria": "12312",
+      "professor": "dfasfsfd",
+      "status": "Obrigatorio",
+      "observacos": "d svs",
+      "id": 1
+    },
+    {
+      "nome": "987654321",
+      "cargaHoraria": "12312",
+      "professor": "dfasfsfd",
+      "status": "Obrigatorio",
+      "observacos": "d svs",
+      "id": 2
+    },
+    {
+      "nome": "sdkdlsko",
+      "cargaHoraria": "231231",
+      "professor": "12e12",
+      "status": "Opcional",
+      "observacos": "undefined",
+      "id": 3
+    }
+  ]
+}
